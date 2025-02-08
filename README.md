@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**352A/352A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with expertise in:
+- 🔹 **Programming Languages**: JavaScript, TypeScript, Python
+- 🔹 **Frontend**: React.js, Next.js, TailwindCSS
+- 🔹 **Backend**: Node.js, Express
+- 🔹 **DevOps**: Docker, Kubernetes, CI/CD (Jenkins)
+- 🔹 **Cloud**: AWS
 
-Here are some ideas to get you started:
+## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d352/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach out** if you want to collaborate on projects!
